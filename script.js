@@ -23,7 +23,7 @@ if (201 <= n && n <= 300) {
 } else if (601 <= n && n <= 700) {
     color = "pink";
 } else if (701 <= n && n <= 800) {
-    color = "black";
+    color = "orang";
 } else if (801 <= n && n <= 900) {
     color = "brown";
 } else {
